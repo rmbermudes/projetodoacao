@@ -1,0 +1,21 @@
+
+
+.register-card2 {
+  align-content: center;
+  background-color: rgb(235, 65, 65);
+  border-radius: 8px;
+  color: #fff;
+  width: 900px;
+  margin: 20px auto 20px;
+  height: auto;
+  padding: 30px 30px 30px;
+}
+.titulo .login{
+    color: #fff;
+    text-align: center;
+}
+
+.div-align {
+    align-self:center;    
+    
+}
