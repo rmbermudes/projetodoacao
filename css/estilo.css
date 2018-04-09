@@ -4,14 +4,14 @@
   align-content: center;
   background-color: rgb(235, 65, 65);
   border-radius: 8px;
-  color: #fff;
+  color: white;
   width: 900px;
   margin: 20px auto 20px;
   height: auto;
   padding: 30px 30px 30px;
 }
 .titulo .login{
-    color: #fff;
+    color: white;
     text-align: center;
 }
 

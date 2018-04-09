@@ -51,7 +51,7 @@
 }
 
 #register-navbar a {
-  color: #FFF;
+  color: white;
 }
 
 .assinature {
@@ -61,7 +61,7 @@
 
 .register-background {
   /*background-image: url("../paper_img/red.jpg");*/
-  background-color: #FFFAFA;
+  background-color: white;
   background-position: center center;
   background-size: cover;
   min-height: 100vh;
@@ -72,7 +72,7 @@
 
 .meu-background {
   /*background-image: url("../paper_img/lamp.jpg");*/
-  background-color: #FFFAFA;
+  background-color: white;
   background-position: center center;
   background-size: cover;
   min-height: 100vh;
@@ -101,7 +101,7 @@
 
 .register-footer {
   bottom: 20px;
-  color: #fff;
+  color: white;
   position: absolute;
   z-index: 3;
   width: 100%;
@@ -114,7 +114,7 @@
 .register-card {
   background-color: #EB5E28;
   border-radius: 8px;
-  color: #fff;
+  color: white;
   max-width: 900px;
   margin: 20px 0 70px;
   min-height: 400px;
@@ -126,7 +126,7 @@
 }
 
 .register-card .title {
-  color: #FFF;
+  color: white;
   text-align: center;
 }
 
