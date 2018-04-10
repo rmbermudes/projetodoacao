@@ -102,13 +102,13 @@
 .register-footer {
   bottom: 20px;
   color: white;
-  position: absolute;
+  position: relative;
   z-index: 3;
   width: 100%;
 }
 
 .register-footer .fa-heart {
-  color: #EB5E28;
+  color: rgb(40, 86, 235);
 }
 
 .register-card {
