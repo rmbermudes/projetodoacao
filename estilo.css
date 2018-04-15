@@ -1,0 +1,21 @@
+
+
+.register-card2 {
+  align-content: center;
+  background-color: rgb(235, 65, 65);
+  border-radius: 8px;
+  color: white;
+  width: auto; /* estava 900px auterado pisquila */
+  margin: 20px auto 20px;
+  height: auto;
+  padding: 30px 30px 30px;
+}
+.titulo .login{
+    color: white;
+    text-align: center;
+}
+
+.div-align {
+    align-self:center;    
+    
+}
